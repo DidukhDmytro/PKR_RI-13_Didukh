@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PKR_LAB3.3/PKR_LAB3.3.vcxproj" />
+  <Project Path="UnitTest3.3iter/UnitTest3.3iter.vcxproj" />
+</Solution>
