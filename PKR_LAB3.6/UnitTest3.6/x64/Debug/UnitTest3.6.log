@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest3.6.cpp
+C:\Users\diduk\OneDrive\Desktop\labs\PKR_LAB3.6\UnitTest3.6\UnitTest3.6.cpp(202,45): warning C4305: 'argument': truncation from 'int' to 'char'
+  (compiling source file '/UnitTest3.6.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\PKR_LAB3.6\UnitTest3.6\UnitTest3.6.cpp(202,45): warning C4309: 'argument': truncation of constant value
+  (compiling source file '/UnitTest3.6.cpp')
+  
+     Creating library C:\Users\diduk\OneDrive\Desktop\labs\PKR_LAB3.6\x64\Debug\UnitTest3.6.lib and object C:\Users\diduk\OneDrive\Desktop\labs\PKR_LAB3.6\x64\Debug\UnitTest3.6.exp
+  UnitTest3.6.vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\PKR_LAB3.6\x64\Debug\UnitTest3.6.dll
